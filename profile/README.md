@@ -6,18 +6,18 @@
 [![42](https://img.shields.io/badge/42-Paris-purple?style=for-the-badge)](https://42.fr)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
-*Collection curée de jeux et outils éducatifs pour développeurs*
+*Collection de ressources éducatives et ludiques pour développeurs*
 
 </div>
 
 ## 🎯 Objectif
 
-Cette collection regroupe des projets éducatifs pour apprendre en s'amusant :
-- 🎮 Jeux de programmation stimulants
-- 🛠️ Outils d'apprentissage interactifs
-- 📚 Ressources pédagogiques ludiques
-- 🔧 Environnements de pratique
-- 💡 Défis de programmation
+Cette collection fait référence aux meilleurs outils éducatifs pour apprendre le développement :
+- 🎮 Jeux de programmation sélectionnés et testés
+- 🛠️ Outils d'apprentissage interactifs validés
+- 📚 Ressources pédagogiques éprouvées
+- 🔧 Environnements de pratique sécurisés
+- 💡 Défis de programmation progressifs
 
 ## 📚 Projets Éducatifs
 
@@ -26,28 +26,40 @@ Cette collection regroupe des projets éducatifs pour apprendre en s'amusant :
 <summary><strong>Jeux de Programmation</strong></summary>
 
 - [**Bitburner**](https://github.com/danielyxie/bitburner)
-  - 🎮 RPG de hacking en JavaScript
-  - 🌐 Interface type terminal
-  - 📝 Scripts pour automatiser et résoudre des défis
-  - 💻 Apprentissage de JavaScript et Node.js
-  - 🔐 Concepts de cybersécurité
-  - 🎯 Progression de difficulté croissante
-  - ⭐ Plus de 6.5k stars sur GitHub
+  - 🎮 [Jouer en ligne](https://danielyxie.github.io/bitburner/)
+  - 📖 [Documentation](https://bitburner.readthedocs.io)
+  - 💻 [Tutoriels](https://bitburner.readthedocs.io/en/latest/guidesandtips/gameplay_tips.html)
+  - 🛠️ Technologies : JavaScript, Node.js
+  - ⭐ 6.5k+ stars
+  - 🔄 Version actuelle : v2.3.0
+  - 📱 [Extension Steam](https://store.steampowered.com/app/1812820/Bitburner/)
 
 - [**GameShell**](https://github.com/phyver/GameShell)
-  - 🐚 Apprendre Bash en jouant
-  - 📚 40+ missions progressives
-  - 🎯 Défis de commandes Unix
-  - 🔍 Découverte de l'environnement shell
-  - 📖 Documentation FR/EN complète
-  - ⚡ Installation facile
-  - 🏆 Système de progression clair
+  - 🐚 [Documentation FR](https://github.com/phyver/GameShell/blob/master/docs/fr/README.md)
+  - 🌍 [Documentation EN](https://github.com/phyver/GameShell/blob/master/docs/en/README.md)
+  - 📥 Installation : `curl -fsSL https://git.io/gameshell | bash`
+  - 📚 [Wiki](https://github.com/phyver/GameShell/wiki)
+  - 🎯 40+ missions
+  - 💡 [Solutions](https://github.com/phyver/GameShell/tree/master/solutions)
+  - 🔧 [Scripts utiles](https://github.com/phyver/GameShell/tree/master/utils)
 
-- [**Vim Adventures**](https://github.com/vim-adventures)
-  - ⌨️ Apprentissage de Vim par le jeu
-  - 🎮 Interface RPG rétro
-  - 📈 Progression des commandes basiques aux avancées
-  - 🎯 Challenges de plus en plus complexes
+- [**TwilioQuest**](https://github.com/TwilioQuest/twilioquest)
+  - 🎮 [Télécharger](https://www.twilio.com/quest/download)
+  - 📖 [Guide de démarrage](https://www.twilio.com/quest/learn)
+  - 🛠️ Technologies : JavaScript, Python, APIs
+  - 🌟 Gratuit et open-source
+  - 📱 Multi-plateforme
+  - 🎨 [Extensions](https://www.twilio.com/quest/extensions)
+  - 👥 [Communauté Discord](https://discord.gg/twilioquest)
+
+- [**Screeps**](https://github.com/screeps/screeps)
+  - 🌐 [Jouer en ligne](https://screeps.com/)
+  - 📚 [Documentation](https://docs.screeps.com/)
+  - 💻 [API Reference](https://docs.screeps.com/api/)
+  - 🔧 [Outils recommandés](https://docs.screeps.com/third-party.html)
+  - 👥 [Forum](https://screeps.com/forum/)
+  - 📦 [NPM Package](https://www.npmjs.com/package/screeps)
+  - 🎮 [Steam](https://store.steampowered.com/app/464350/Screeps/)
 </details>
 
 ### 🛠️ Outils Interactifs
@@ -55,96 +67,102 @@ Cette collection regroupe des projets éducatifs pour apprendre en s'amusant :
 <summary><strong>Plateformes d'Apprentissage</strong></summary>
 
 - [**Learn Git Branching**](https://github.com/pcottle/learnGitBranching)
-  - 🌳 Visualisation Git interactive
-  - 📚 Tutoriels pas à pas
-  - 🎯 Défis de branching
-  - 💡 Solutions commentées
-  - 🌍 Support multilingue
-  - ⭐ Plus de 20k stars
-  - 🔄 Mises à jour régulières
+  - 🌐 [Version en ligne](https://learngitbranching.js.org/)
+  - 📚 [Solutions](https://github.com/pcottle/learnGitBranching/wiki/Solutions)
+  - 🌍 [Traductions](https://github.com/pcottle/learnGitBranching/blob/main/src/levels/index.js)
+  - ⭐ 20k+ stars
+  - 🎯 69 niveaux
+  - 💡 [Guide](https://github.com/pcottle/learnGitBranching/wiki/Guide)
+  - 🔧 [Contribuer](https://github.com/pcottle/learnGitBranching/blob/main/CONTRIBUTING.md)
 
 - [**OverTheWire Games**](https://github.com/OverTheWire/OverTheWire-website)
-  - 🔐 Défis de sécurité
-  - 📚 Progression Bandit -> Natas
-  - 🎯 Apprentissage cybersécurité
-  - 💻 Manipulation de terminal
-  - 🏆 Communauté active
-  - 📖 Documentation détaillée
-  - 🌐 Accessible en ligne
+  - 🌐 [Site officiel](https://overthewire.org/wargames/)
+  - 📚 Wargames disponibles :
+    - [Bandit](https://overthewire.org/wargames/bandit/) - Débutant
+    - [Natas](https://overthewire.org/wargames/natas/) - Web Security
+    - [Leviathan](https://overthewire.org/wargames/leviathan/) - Unix
+    - [Krypton](https://overthewire.org/wargames/krypton/) - Cryptographie
+  - 💭 [IRC](https://overthewire.org/information/irc.html)
+  - 📖 [Wiki](https://github.com/OverTheWire/OverTheWire-website/wiki)
+  - 🔐 [Challenges SSH](https://overthewire.org/information/connect.html)
 </details>
 
 ### 🎲 Défis de Code
 <details>
-<summary><strong>Challenges Éducatifs</strong></summary>
+<summary><strong>Challenges & Exercices</strong></summary>
 
-- [**CodinGame**](https://github.com/CodinGame)
-  - 🎮 Challenges de code gamifiés
-  - 🏃 Courses de bots
-  - 🤖 IA et algorithmes
-  - 🌍 Multi-langages
-  - 👥 Mode multijoueur
-  - 📊 Classements et compétitions
-  - 📈 Progression par niveau
+- [**CodinGame**](https://www.codingame.com/)
+  - 🎮 [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
+  - 🤖 [Bot Programming](https://www.codingame.com/multiplayer/bot-programming)
+  - 📚 [Puzzles](https://www.codingame.com/training)
+  - 🏢 [Pour entreprises](https://www.codingame.com/work/solutions/coding-game/)
+  - 🎯 [Compétitions](https://www.codingame.com/contests/)
+  - 💼 [Offres d'emploi](https://www.codingame.com/work/job-offers/)
+  - 👥 [Forum](https://www.codingame.com/forum/t/welcome-to-codingame/1894)
 
-- [**Screeps**](https://github.com/screeps/screeps)
-  - 🤖 MMO de programmation
-  - 🎮 Contrôle d'unités par code
-  - 📝 JavaScript en temps réel
-  - 🌐 Monde persistant
-  - 🏗️ Construction et gestion
-  - 📈 Économie de joueurs
-  - 👥 Communauté active
+- [**exercism**](https://github.com/exercism/exercism)
+  - 🌐 [Site Web](https://exercism.org/)
+  - 📚 [Tracks disponibles](https://exercism.org/tracks)
+  - 💻 [CLI](https://github.com/exercism/cli)
+  - 👥 [Mentorat](https://exercism.org/mentoring)
+  - 🎯 [Exercices](https://github.com/exercism/problem-specifications)
+  - 📖 [Documentation](https://exercism.org/docs)
+  - 🤝 [Contribuer](https://exercism.org/contributing)
+
+- [**Project Euler**](https://projecteuler.net/)
+  - 🧮 [Archives](https://projecteuler.net/archives)
+  - 📊 [Statistiques](https://projecteuler.net/statistics)
+  - 👥 [Forum](https://projecteuler.net/forum)
+  - 📚 [Problèmes récents](https://projecteuler.net/recent)
+  - 🏆 [Niveaux](https://projecteuler.net/levels)
+  - 💡 [À propos](https://projecteuler.net/about)
+  - 📖 [FAQ](https://projecteuler.net/faq)
 </details>
 
 ### 💻 Environnements de Pratique
 <details>
-<summary><strong>Labs et Simulateurs</strong></summary>
+<summary><strong>Labs & Simulateurs</strong></summary>
 
-- [**KataCoda**](https://github.com/katacoda)
-  - 🛠️ Labs interactifs
-  - 🐳 Environnements Docker
-  - ☸️ Kubernetes hands-on
-  - 📚 Scénarios réels
-  - 🎯 Exercices guidés
-  - 🔄 Environnements réinitialisables
-  - 📖 Documentation extensive
+- [**Katacoda**](https://www.katacoda.com/)
+  - 🐳 [Docker](https://www.katacoda.com/courses/docker)
+  - ☸️ [Kubernetes](https://www.katacoda.com/courses/kubernetes)
+  - 🐧 [Linux](https://www.katacoda.com/courses/ubuntu)
+  - 📊 [Machine Learning](https://www.katacoda.com/courses/machine-learning)
+  - 🔒 [Security](https://www.katacoda.com/courses/security)
+  - 🌐 [Networking](https://www.katacoda.com/courses/networking)
+  - ⚡ [Serverless](https://www.katacoda.com/courses/serverless)
 
-- [**HackerRank**](https://github.com/hackerrank)
-  - 💻 Pratique algorithmique
-  - 📊 Structure de données
-  - 🎯 Préparation entretiens
-  - 🏆 Système de points
-  - 📈 Statistiques détaillées
-  - 🌍 Large communauté
-  - ✨ Solutions vérifiées
+- [**Codecademy**](https://www.codecademy.com/)
+  - 💻 [Catalogue de cours](https://www.codecademy.com/catalog)
+  - 🛣️ [Parcours d'apprentissage](https://www.codecademy.com/paths)
+  - 🎯 [Projets guidés](https://www.codecademy.com/projects)
+  - 👥 [Forum](https://discuss.codecademy.com/)
+  - 📱 [Applications](https://www.codecademy.com/mobile)
+  - 💼 [Pro](https://www.codecademy.com/pro)
+  - 🏢 [Pour entreprises](https://www.codecademy.com/business)
 </details>
 
 ## 🔍 Navigation
 <details>
 <summary><strong>Guide d'Utilisation</strong></summary>
 
-1. **Choisir par Niveau**
-   - 🌱 Débutant : GameShell, Learn Git Branching
-   - 🔄 Intermédiaire : Bitburner, CodinGame
-   - 🚀 Avancé : Screeps, OverTheWire
+1. **Par Niveau**
+   - 🌱 Débutant : [GameShell](https://github.com/phyver/GameShell), [Bandit](https://overthewire.org/wargames/bandit/)
+   - 🔄 Intermédiaire : [Bitburner](https://danielyxie.github.io/bitburner/), [CodinGame](https://www.codingame.com/)
+   - 🚀 Avancé : [Project Euler](https://projecteuler.net/), [Screeps](https://screeps.com/)
 
-2. **Par Type d'Apprentissage**
-   - 🎮 Jeux : Bitburner, GameShell, Screeps
-   - 📚 Tutoriels : Learn Git Branching, KataCoda
-   - 🎯 Défis : OverTheWire, HackerRank
-
-3. **Par Technologie**
-   - 🐚 Shell : GameShell, OverTheWire
-   - 💻 JavaScript : Bitburner, Screeps
-   - 🌳 Git : Learn Git Branching
+2. **Par Technologie**
+   - 🐚 Shell : [GameShell](https://github.com/phyver/GameShell), [OverTheWire](https://overthewire.org/)
+   - 💻 JavaScript : [Bitburner](https://danielyxie.github.io/bitburner/), [Exercism JS](https://exercism.org/tracks/javascript)
+   - 🐍 Python : [CodinGame](https://www.codingame.com/), [TwilioQuest](https://www.twilio.com/quest/)
 </details>
 
 <div align="center">
 
 ---
 
-⭐ *N'oubliez pas de star les projets qui vous aident !* ⭐
+⭐ *Ces ressources vous ont aidé ? Pensez à les starrer !* ⭐
 
-[Discord](https://discord.gg/42paris) • [GitHub](https://github.com/dev-forks-collection)
+[Discord 42](https://discord.gg/42paris) • [GitHub](https://github.com/dev-forks-collection)
 
 </div>
