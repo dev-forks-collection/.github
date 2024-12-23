@@ -6,156 +6,145 @@
 [![42](https://img.shields.io/badge/42-Paris-purple?style=for-the-badge)](https://42.fr)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
-*Collection curée d'outils et de ressources pour développeurs*
+*Collection curée de jeux et outils éducatifs pour développeurs*
 
 </div>
 
 ## 🎯 Objectif
 
-Cette collection sert de hub centralisé pour :
-- 🛠️ Outils de développement essentiels validés et testés
-- 📚 Ressources d'apprentissage de qualité
-- 💡 Projets de référence soigneusement sélectionnés
-- ⚙️ Configurations optimisées pour 42
-- 🔧 Solutions pratiques pour les défis courants
-- 📖 Documentation complète et à jour
+Cette collection regroupe des projets éducatifs pour apprendre en s'amusant :
+- 🎮 Jeux de programmation stimulants
+- 🛠️ Outils d'apprentissage interactifs
+- 📚 Ressources pédagogiques ludiques
+- 🔧 Environnements de pratique
+- 💡 Défis de programmation
 
-## 📚 Structure de l'Organisation
+## 📚 Projets Éducatifs
 
-### 🎓 42 School Resources
+### 🎮 Jeux d'Apprentissage
 <details>
-<summary><strong>Ressources pour 42</strong></summary>
+<summary><strong>Jeux de Programmation</strong></summary>
 
-- [**42-docs**](https://github.com/42School/42-docs)
-  - 🏫 Documentation du cursus
-  - 📝 Guides des projets
-  - 🔍 Ressources officielles
-  - 📚 Manuel de l'étudiant
+- [**Bitburner**](https://github.com/danielyxie/bitburner)
+  - 🎮 RPG de hacking en JavaScript
+  - 🌐 Interface type terminal
+  - 📝 Scripts pour automatiser et résoudre des défis
+  - 💻 Apprentissage de JavaScript et Node.js
+  - 🔐 Concepts de cybersécurité
+  - 🎯 Progression de difficulté croissante
+  - ⭐ Plus de 6.5k stars sur GitHub
 
-- [**42-utils**](https://github.com/alexandregv/42toolbox)
-  - 📊 Scripts et utilitaires
-  - 🎯 Outils de productivité
-  - 📈 Helpers pour les projets
-  - ⏱️ Gains de temps validés
+- [**GameShell**](https://github.com/phyver/GameShell)
+  - 🐚 Apprendre Bash en jouant
+  - 📚 40+ missions progressives
+  - 🎯 Défis de commandes Unix
+  - 🔍 Découverte de l'environnement shell
+  - 📖 Documentation FR/EN complète
+  - ⚡ Installation facile
+  - 🏆 Système de progression clair
 
-- [**42-resources**](https://github.com/rsommerfeld/42Stats)
-  - 📗 Statistiques et analytics
-  - 🧪 Tests et exercices
-  - 🎮 Outils de progression
-  - 📚 Resources communautaires
+- [**Vim Adventures**](https://github.com/vim-adventures)
+  - ⌨️ Apprentissage de Vim par le jeu
+  - 🎮 Interface RPG rétro
+  - 📈 Progression des commandes basiques aux avancées
+  - 🎯 Challenges de plus en plus complexes
 </details>
 
-### 🛠️ Development Tools
+### 🛠️ Outils Interactifs
 <details>
-<summary><strong>Outils de Développement</strong></summary>
+<summary><strong>Plateformes d'Apprentissage</strong></summary>
 
-- [**neovim-config**](https://github.com/neovim/neovim)
-  - ⚡ Configuration optimisée
-  - 🔌 Plugins essentiels testés
-  - 🎨 Thèmes validés
-  - ⚙️ Setup automatisé
+- [**Learn Git Branching**](https://github.com/pcottle/learnGitBranching)
+  - 🌳 Visualisation Git interactive
+  - 📚 Tutoriels pas à pas
+  - 🎯 Défis de branching
+  - 💡 Solutions commentées
+  - 🌍 Support multilingue
+  - ⭐ Plus de 20k stars
+  - 🔄 Mises à jour régulières
 
-- [**vscode-42**](https://github.com/kube/vscode-42header)
-  - 🔧 Extension Header 42
-  - 🎨 Norminette intégrée
-  - 📊 Outils C/C++
-  - 🔍 Configuration 42
-
-- [**42sh**](https://github.com/42shTests/42ShellTester)
-  - 📜 Tests pour Shell
-  - 🔧 Scripts de validation
-  - 🛠️ Outils de debug
-  - 📦 Tests unitaires
+- [**OverTheWire Games**](https://github.com/OverTheWire/OverTheWire-website)
+  - 🔐 Défis de sécurité
+  - 📚 Progression Bandit -> Natas
+  - 🎯 Apprentissage cybersécurité
+  - 💻 Manipulation de terminal
+  - 🏆 Communauté active
+  - 📖 Documentation détaillée
+  - 🌐 Accessible en ligne
 </details>
 
-### 🎮 Educational Games
+### 🎲 Défis de Code
 <details>
-<summary><strong>Apprentissage Ludique</strong></summary>
+<summary><strong>Challenges Éducatifs</strong></summary>
 
-- [**42-game**](https://github.com/42Paris/42run)
-  - 🎮 Jeu d'apprentissage C
-  - 🧩 Défis de code
-  - 🎯 Exercices pratiques
-  - 🏆 Progression ludique
+- [**CodinGame**](https://github.com/CodinGame)
+  - 🎮 Challenges de code gamifiés
+  - 🏃 Courses de bots
+  - 🤖 IA et algorithmes
+  - 🌍 Multi-langages
+  - 👥 Mode multijoueur
+  - 📊 Classements et compétitions
+  - 📈 Progression par niveau
 
-- [**shell-learner**](https://github.com/vbatts/bash-learning-tools)
-  - 📚 Exercices Shell
-  - 🔧 Tutoriels interactifs
-  - 📊 Suivi de progrès
-  - 🎯 Objectifs graduels
+- [**Screeps**](https://github.com/screeps/screeps)
+  - 🤖 MMO de programmation
+  - 🎮 Contrôle d'unités par code
+  - 📝 JavaScript en temps réel
+  - 🌐 Monde persistant
+  - 🏗️ Construction et gestion
+  - 📈 Économie de joueurs
+  - 👥 Communauté active
 </details>
 
-## 📂 Projets Actuels
-
-### 💻 Éditeur & IDE
+### 💻 Environnements de Pratique
 <details>
-<summary><strong>42-nvim</strong></summary>
+<summary><strong>Labs et Simulateurs</strong></summary>
 
-- [**Configuration Neovim pour 42**](https://github.com/neovim/neovim)
-  - ⚡ Performance optimisée
-  - 🎨 Header 42 intégré
-  - 🔌 Norminette temps réel
-  - 📝 C/C++ optimisé
-  - 🚀 Installation rapide
-  - 📚 Documentation FR/EN
-  - 🔧 Support actif
-</details>
+- [**KataCoda**](https://github.com/katacoda)
+  - 🛠️ Labs interactifs
+  - 🐳 Environnements Docker
+  - ☸️ Kubernetes hands-on
+  - 📚 Scénarios réels
+  - 🎯 Exercices guidés
+  - 🔄 Environnements réinitialisables
+  - 📖 Documentation extensive
 
-### 🐚 Shell & Terminal
-<details>
-<summary><strong>GameShell</strong></summary>
-
-- [**Apprendre le Shell en jouant**](https://github.com/phyver/GameShell)
-  - 🎮 Niveaux progressifs
-  - 📚 Exercices pratiques
-  - 🎯 Challenges réels
-  - 💡 Solutions détaillées
-  - 🏆 Progression claire
-  - 📊 Suivi avancement
-  - 🌍 FR/EN supportés
-</details>
-
-### 🛠️ Outils 42
-<details>
-<summary><strong>42tools</strong></summary>
-
-- [**Boîte à outils 42**](https://github.com/alexandregv/42toolbox)
-  - 🔧 Scripts essentiels
-  - 📊 Gestionnaire d'espace
-  - 🎯 Compilateurs & outils
-  - 📝 Templates projet
-  - 🚀 Setup rapide
-  - 📚 Documentation FR
-  - 🤝 Support Discord
+- [**HackerRank**](https://github.com/hackerrank)
+  - 💻 Pratique algorithmique
+  - 📊 Structure de données
+  - 🎯 Préparation entretiens
+  - 🏆 Système de points
+  - 📈 Statistiques détaillées
+  - 🌍 Large communauté
+  - ✨ Solutions vérifiées
 </details>
 
 ## 🔍 Navigation
 <details>
 <summary><strong>Guide d'Utilisation</strong></summary>
 
-1. **🔎 Recherche**
-   - Utilisez la recherche GitHub
-   - Filtrez par language
-   - Cherchez dans le code
+1. **Choisir par Niveau**
+   - 🌱 Débutant : GameShell, Learn Git Branching
+   - 🔄 Intermédiaire : Bitburner, CodinGame
+   - 🚀 Avancé : Screeps, OverTheWire
 
-2. **🏷️ Topics**
-   - `42school`
-   - `student-tools`
-   - `learning`
-   - `shell`
+2. **Par Type d'Apprentissage**
+   - 🎮 Jeux : Bitburner, GameShell, Screeps
+   - 📚 Tutoriels : Learn Git Branching, KataCoda
+   - 🎯 Défis : OverTheWire, HackerRank
 
-3. **📂 Categories**
-   - IDE & Editeurs
-   - Shell & Terminal
-   - Outils & Scripts
+3. **Par Technologie**
+   - 🐚 Shell : GameShell, OverTheWire
+   - 💻 JavaScript : Bitburner, Screeps
+   - 🌳 Git : Learn Git Branching
 </details>
 
 <div align="center">
 
 ---
 
-⭐ *N'oubliez pas de star les projets utiles !* ⭐
+⭐ *N'oubliez pas de star les projets qui vous aident !* ⭐
 
-[Discord 42](https://discord.gg/42) • [42 Network](https://42.fr/en/network-42/) • [42 Paris](https://42.fr)
+[Discord](https://discord.gg/42paris) • [GitHub](https://github.com/dev-forks-collection)
 
 </div>
