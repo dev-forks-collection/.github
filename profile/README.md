@@ -21,9 +21,18 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
 
 ## 📚 Projets Éducatifs
 
-### 🎮 Jeux d'Apprentissage
+### 🎮 Jeux d'Apprentissage Généraux
 <details>
 <summary><strong>Jeux de Programmation</strong></summary>
+
+- [**CodeCombat**](https://github.com/codecombat/codecombat)
+  - 🎮 [Jouer en ligne](https://codecombat.com/)
+  - 📚 [Documentation](https://codecombat.com/docs)
+  - 🌍 [Pour les écoles](https://codecombat.com/schools)
+  - 🛠️ Technologies : Python, JavaScript, C++
+  - ⭐ 7.4k+ stars sur GitHub
+  - 👥 [Forum communautaire](https://discourse.codecombat.com/)
+  - 📖 [Guide des niveaux](https://codecombat.com/play)
 
 - [**Bitburner**](https://github.com/danielyxie/bitburner)
   - 🎮 [Jouer en ligne](https://danielyxie.github.io/bitburner/)
@@ -34,6 +43,20 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🔄 Version actuelle : v2.3.0
   - 📱 [Extension Steam](https://store.steampowered.com/app/1812820/Bitburner/)
 
+- [**CheckiO**](https://github.com/CheckiO)
+  - 🌐 [Python Edition](https://py.checkio.org/)
+  - 🌐 [JavaScript Edition](https://js.checkio.org/)
+  - 📚 Défis de code en Python et JavaScript
+  - 🎮 Interface de jeu unique
+  - 👥 Revue de code par la communauté
+  - 🎯 Progression par île thématique
+  - 💡 Solutions commentées
+</details>
+
+### 🐧 Unix & Shell
+<details>
+<summary><strong>Apprentissage Shell et Système</strong></summary>
+
 - [**GameShell**](https://github.com/phyver/GameShell)
   - 🐚 [Documentation FR](https://github.com/phyver/GameShell/blob/master/docs/fr/README.md)
   - 🌍 [Documentation EN](https://github.com/phyver/GameShell/blob/master/docs/en/README.md)
@@ -42,38 +65,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🎯 40+ missions
   - 💡 [Solutions](https://github.com/phyver/GameShell/tree/master/solutions)
   - 🔧 [Scripts utiles](https://github.com/phyver/GameShell/tree/master/utils)
-
-- [**TwilioQuest**](https://github.com/TwilioQuest/twilioquest)
-  - 🎮 [Télécharger](https://www.twilio.com/quest/download)
-  - 📖 [Guide de démarrage](https://www.twilio.com/quest/learn)
-  - 🛠️ Technologies : JavaScript, Python, APIs
-  - 🌟 Gratuit et open-source
-  - 📱 Multi-plateforme
-  - 🎨 [Extensions](https://www.twilio.com/quest/extensions)
-  - 👥 [Communauté Discord](https://discord.gg/twilioquest)
-
-- [**Screeps**](https://github.com/screeps/screeps)
-  - 🌐 [Jouer en ligne](https://screeps.com/)
-  - 📚 [Documentation](https://docs.screeps.com/)
-  - 💻 [API Reference](https://docs.screeps.com/api/)
-  - 🔧 [Outils recommandés](https://docs.screeps.com/third-party.html)
-  - 👥 [Forum](https://screeps.com/forum/)
-  - 📦 [NPM Package](https://www.npmjs.com/package/screeps)
-  - 🎮 [Steam](https://store.steampowered.com/app/464350/Screeps/)
-</details>
-
-### 🛠️ Outils Interactifs
-<details>
-<summary><strong>Plateformes d'Apprentissage</strong></summary>
-
-- [**Learn Git Branching**](https://github.com/pcottle/learnGitBranching)
-  - 🌐 [Version en ligne](https://learngitbranching.js.org/)
-  - 📚 [Solutions](https://github.com/pcottle/learnGitBranching/wiki/Solutions)
-  - 🌍 [Traductions](https://github.com/pcottle/learnGitBranching/blob/main/src/levels/index.js)
-  - ⭐ 20k+ stars
-  - 🎯 69 niveaux
-  - 💡 [Guide](https://github.com/pcottle/learnGitBranching/wiki/Guide)
-  - 🔧 [Contribuer](https://github.com/pcottle/learnGitBranching/blob/main/CONTRIBUTING.md)
 
 - [**OverTheWire Games**](https://github.com/OverTheWire/OverTheWire-website)
   - 🌐 [Site officiel](https://overthewire.org/wargames/)
@@ -87,9 +78,78 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🔐 [Challenges SSH](https://overthewire.org/information/connect.html)
 </details>
 
-### 🎲 Défis de Code
+### 💻 JavaScript & Programmation
 <details>
-<summary><strong>Challenges & Exercices</strong></summary>
+<summary><strong>Apprentissage JavaScript</strong></summary>
+
+- [**Screeps**](https://github.com/screeps/screeps)
+  - 🌐 [Jouer en ligne](https://screeps.com/)
+  - 📚 [Documentation](https://docs.screeps.com/)
+  - 💻 [API Reference](https://docs.screeps.com/api/)
+  - 🔧 [Outils recommandés](https://docs.screeps.com/third-party.html)
+  - 👥 [Forum](https://screeps.com/forum/)
+  - 📦 [NPM Package](https://www.npmjs.com/package/screeps)
+  - 🎮 [Steam](https://store.steampowered.com/app/464350/Screeps/)
+
+- [**Untrusted**](https://github.com/AlexNisnevich/untrusted)
+  - 🎮 [Jouer en ligne](https://alexnisnevich.github.io/untrusted/)
+  - 📖 Meta-JavaScript adventure game
+  - 💻 Modifier le code source pour gagner
+  - 🌟 Expérience unique d'apprentissage
+  - 🎯 21 niveaux progressifs
+  - 📚 [Documentation](https://github.com/AlexNisnevich/untrusted/wiki)
+  - ⭐ 4.4k+ stars sur GitHub
+</details>
+
+### ☕ Java & Robotique
+<details>
+<summary><strong>Programmation Java & Robots</strong></summary>
+
+- [**Robocode**](https://github.com/robo-code/robocode)
+  - 🤖 [Télécharger](https://robocode.sourceforge.io/)
+  - 📚 [Wiki](https://robowiki.net/)
+  - 💻 Programmation de robots en Java
+  - 🎮 Batailles de robots programmables
+  - 🏆 [Compétitions](https://robowiki.net/wiki/Competitions)
+  - 📖 [Tutoriels](https://robowiki.net/wiki/Tutorials)
+  - 🌟 Idéal pour apprendre Java
+</details>
+
+### 🎨 CSS & Design
+<details>
+<summary><strong>Apprentissage du CSS</strong></summary>
+
+- [**Flexbox Froggy**](https://github.com/thomaspark/flexboxfroggy)
+  - 🐸 [Jouer en ligne](https://flexboxfroggy.com/)
+  - 📚 Apprendre CSS Flexbox
+  - 🌍 24 langues disponibles
+  - 🎯 24 niveaux progressifs
+  - 💡 Approche visuelle intuitive
+  - ⭐ 5.8k+ stars sur GitHub
+  - 🎮 Interface ludique
+
+- [**CSS Grid Garden**](https://github.com/thomaspark/gridgarden)
+  - 🌐 [Jouer en ligne](https://cssgridgarden.com/)
+  - 📚 Apprendre CSS Grid
+  - 🎮 28 niveaux de jardinage
+  - 🌍 Support multilingue
+  - 💻 Exercices pratiques
+  - 📖 [Documentation](https://github.com/thomaspark/gridgarden/blob/master/README.md)
+  - 🎯 Excellent pour les débutants
+
+- [**CSSBattle**](https://cssbattle.dev/)
+  - 🎯 [Défis quotidiens](https://cssbattle.dev/daily)
+  - 🏆 [Classement](https://cssbattle.dev/leaderboard)
+  - 📚 [Apprentissage CSS](https://cssbattle.dev/learn)
+  - 🎮 Gamification du CSS
+  - 👥 Communauté active
+  - 💡 Solutions créatives
+  - 🌟 Interface intuitive
+</details>
+
+### 🛠️ Outils & Challenges
+<details>
+<summary><strong>Plateformes de Challenge</strong></summary>
 
 - [**CodinGame**](https://www.codingame.com/)
   - 🎮 [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
@@ -119,18 +179,27 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 📖 [FAQ](https://projecteuler.net/faq)
 </details>
 
-### 💻 Environnements de Pratique
+### 📚 Ressources d'Apprentissage
 <details>
-<summary><strong>Labs & Simulateurs</strong></summary>
+<summary><strong>Plateformes Éducatives</strong></summary>
 
-- [**Katacoda**](https://www.katacoda.com/)
-  - 🐳 [Docker](https://www.katacoda.com/courses/docker)
-  - ☸️ [Kubernetes](https://www.katacoda.com/courses/kubernetes)
-  - 🐧 [Linux](https://www.katacoda.com/courses/ubuntu)
-  - 📊 [Machine Learning](https://www.katacoda.com/courses/machine-learning)
-  - 🔒 [Security](https://www.katacoda.com/courses/security)
-  - 🌐 [Networking](https://www.katacoda.com/courses/networking)
-  - ⚡ [Serverless](https://www.katacoda.com/courses/serverless)
+- [**Learn Git Branching**](https://github.com/pcottle/learnGitBranching)
+  - 🌐 [Version en ligne](https://learngitbranching.js.org/)
+  - 📚 [Solutions](https://github.com/pcottle/learnGitBranching/wiki/Solutions)
+  - 🌍 [Traductions](https://github.com/pcottle/learnGitBranching/blob/main/src/levels/index.js)
+  - ⭐ 20k+ stars
+  - 🎯 69 niveaux
+  - 💡 [Guide](https://github.com/pcottle/learnGitBranching/wiki/Guide)
+  - 🔧 [Contribuer](https://github.com/pcottle/learnGitBranching/blob/main/CONTRIBUTING.md)
+
+- [**TwilioQuest**](https://github.com/TwilioQuest/twilioquest)
+  - 🎮 [Télécharger](https://www.twilio.com/quest/download)
+  - 📖 [Guide de démarrage](https://www.twilio.com/quest/learn)
+  - 🛠️ Technologies : JavaScript, Python, APIs
+  - 🌟 Gratuit et open-source
+  - 📱 Multi-plateforme
+  - 🎨 [Extensions](https://www.twilio.com/quest/extensions)
+  - 👥 [Communauté Discord](https://discord.gg/twilioquest)
 
 - [**Codecademy**](https://www.codecademy.com/)
   - 💻 [Catalogue de cours](https://www.codecademy.com/catalog)
@@ -147,22 +216,10 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
 <summary><strong>Guide d'Utilisation</strong></summary>
 
 1. **Par Niveau**
-   - 🌱 Débutant : [GameShell](https://github.com/phyver/GameShell), [Bandit](https://overthewire.org/wargames/bandit/)
-   - 🔄 Intermédiaire : [Bitburner](https://danielyxie.github.io/bitburner/), [CodinGame](https://www.codingame.com/)
+   - 🌱 Débutant : [GameShell](https://github.com/phyver/GameShell), [Flexbox Froggy](https://flexboxfroggy.com/)
+   - 🔄 Intermédiaire : [CodeCombat](https://codecombat.com/), [Bitburner](https://danielyxie.github.io/bitburner/)
    - 🚀 Avancé : [Project Euler](https://projecteuler.net/), [Screeps](https://screeps.com/)
 
 2. **Par Technologie**
    - 🐚 Shell : [GameShell](https://github.com/phyver/GameShell), [OverTheWire](https://overthewire.org/)
-   - 💻 JavaScript : [Bitburner](https://danielyxie.github.io/bitburner/), [Exercism JS](https://exercism.org/tracks/javascript)
-   - 🐍 Python : [CodinGame](https://www.codingame.com/), [TwilioQuest](https://www.twilio.com/quest/)
-</details>
-
-<div align="center">
-
----
-
-⭐ *Ces ressources vous ont aidé ? Pensez à les starrer !* ⭐
-
-[Discord 42](https://discord.gg/42paris) • [GitHub](https://github.com/dev-forks-collection)
-
-</div>
+   - 💻 JavaScript : [Screeps](https://screeps.com/), [Untrusted](https://alexnisnevich.github.io
