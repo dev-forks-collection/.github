@@ -148,4 +148,5 @@
 
 ⭐ *Star les projets utiles pour les soutenir et restez informés des mises à jour !*
 
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
 </div>
