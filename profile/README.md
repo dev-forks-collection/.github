@@ -140,9 +140,6 @@
 
 <div align="center">
 
-### 🔍 Navigation Rapide
-**[Core Tools](#-core-tools)** • **[Testing](#-testing--validation)** • **[Dev Env](#-environnement-de-développement)**
-
 ⭐ *Star les projets utiles pour les soutenir et restez informés des mises à jour !*
 
 </div>
