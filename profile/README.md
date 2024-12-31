@@ -52,10 +52,6 @@ Les projets sont organisés via les topics GitHub :
 - **42-nvim** : Configuration Neovim optimisée pour 42
   - Topics : `neovim` `42school` `student-tool` `editor-plugin`
 
-### Shell & Terminal
-- **GameShell** : Jeu interactif pour apprendre le shell
-  - Topics : `bash` `learning-tool` `shell-scripting` `educational-game`
-
 ### Outils 42
 - **42tools** : Collection d'utilitaires pour 42
   - Topics : `42school` `student-tools` `productivity-tools` `utilities`
