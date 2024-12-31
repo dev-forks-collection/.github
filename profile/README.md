@@ -10,9 +10,10 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
-<br>
+<br><br>
+
 *Collection soigneusement sélectionnée par 42 Academy. Regroupant une suite d'outils et ressources essentielles pour le cursus 42.*
-<br>
+<br><br>
 </div>
 
 ## ℹ️ À propos
@@ -28,13 +29,8 @@
 
 ## 📚 Catégories de Projets
 
-<br>
-
-
-
 ### 🔧 Core Tools
-> Les outils fondamentaux pour tout étudiant 42
-<br>
+> Outils fondamentaux validés par 42
 
 - **norminette** - Vérificateur officiel du style de code 42
   
@@ -42,88 +38,88 @@
 - **francinette** - Framework de test avancé
   
   `42school` `c` `unit-testing` `project-tester` `student-tools`
-<br><br>
+- **mini-moulinette** - Simulateur de moulinette
+  
+  `42school` `testing-framework` `c-testing` `student-tools`
+- **42tools** - Suite d'utilitaires
+  
+  `42school` `utilities` `productivity-tools` `student-tools`
+<br>
 
-## 🧪 Testing & Validation
+### 🧪 Testing & Validation
+> Tests et validation des projets
+
 - **printfTester** - Tests ft_printf
   
   `42school` `c` `unit-testing` `tester` `printf`
-
 - **gnlTester** - Tests get_next_line
-
+  
   `42school` `c` `unit-testing` `tester` `get-next-line`
-
 - **Tester_libft** - Tests libft
-
+  
   `42school` `c` `unit-testing` `tester` `libft`
+<br>
 
-<br><br>
+### 💻 Environnement de Développement
+> Configuration et outils de développement
 
-## 💻 Environnement de Développement
 - **42-nvim** - Configuration Neovim optimisée
-
+  
   `neovim` `editor-plugin` `42school` `student-tool` `ide-configuration`
-
 - **docuseal** - Alternative DocuSign open-source
-
+  
   `document-signing` `ruby` `pdf` `forms` `digital-signatures`
-
 - **map_generator_fdf** - Générateur de maps pour FdF
-
+  
   `python` `data-visualization` `42school` `graphics` `3d-modeling`
+<br>
 
-<br><br>
-
-## 📊 Visualisation & Suivi
+### 📊 Visualisation & Suivi
+> Outils de visualisation et suivi de progression
 
 - **42-holygraph** - Visualisation du cursus 42 et dépendances
-
+  
   `data-visualization` `42school` `progress-tracker` `student-dashboard`
+<br>
 
-<br><br>
-
-## 🎯 Projets Avancés
+### 🎯 Projets Avancés
+> Ressources pour projets complexes
 
 - **Outils projets complexes** - cub3d, webserv, ft_transcendence
-
+  
   `advanced-projects` `42school` `templates` `boilerplate` `project-utils`
-
 - **Templates et frameworks** - Structures de base
-
+  
   `project-template` `framework` `starter-kit` `42school` `advanced`
+<br>
 
-<br><br>
-
-## 🔄 Utils & Integration
+### 🔄 Utils & Integration
+> Outils d'automatisation et workflow
 
 - **Scripts de synchronisation** - Synchro et backup
-
+  
   `sync-tools` `automation` `workflow` `42school` `integration`
-
 - **Utilitaires de workflow** - Optimisation du travail
-
+  
   `workflow` `utilities` `productivity` `42school` `tools`
-
 - **Outils d'intégration** - CI/CD et déploiement
-
+  
   `integration` `devtools` `ci-cd` `42school` `automation`
+<br>
 
-<br><br>
+### 📊 Analytics & Performance
+> Analyse et optimisation de code
 
-## 📊 Analytics & Performance
 - **Analyseurs de code** - Qualité et métriques
   
   `code-analysis` `performance` `metrics` `42school` `profiling`
-
 - **Benchmarks** - Tests de performance
-
+  
   `benchmarking` `performance` `testing` `42school` `metrics`
-
 - **Profilers** - Analyse d'exécution
-
+  
   `profiler` `performance` `analysis` `42school` `optimization`
-
-<br><br>
+<br>
 
 ## 💡 Comment Contribuer
 - Fork le projet qui vous intéresse
@@ -141,5 +137,56 @@
 <div align="center">
 
 ⭐ *Star les projets utiles pour les soutenir et restez informés des mises à jour !*
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<div align="center">
+
+## 🔍 Liens Rapides
+**[Core Tools](#-core-tools)** • **[Testing](#-testing--validation)** • **[Dev Env](#-environnement-de-développement)** • **[Analytics](#-analytics--performance)**
+
+⭐ *Star les projets utiles !*
 
 </div>
