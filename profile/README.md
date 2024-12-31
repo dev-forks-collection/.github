@@ -15,13 +15,6 @@
 *Collection soigneusement sélectionnée par 42 Academy.*
 </div>
 
-## 👥 Organisations
-### 🎓 Formation & Apprentissage
-- 42 Academy, 42 Learning, 42 Career Hub
-
-### 🛠️ Développement & Outils
-- 42 DevTools, CyberOpsHub, SmartBot Guild, dev-forks-collection
-
 ## 📚 Catégories de Projets
 
 ### 🔧 Core Tools
