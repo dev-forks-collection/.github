@@ -44,10 +44,6 @@ Les projets sont organisés via les topics GitHub :
 - `#shell-scripting` - Scripts et outils shell
 - `#bash` - Ressources Bash
 
-### 🎮 Educational Games
-- `#educational-game` - Jeux pour apprendre
-- `#learning-tool` - Outils d'apprentissage interactifs
-
 <br><br>
 
 ## 📂 Projets Actuels
