@@ -46,6 +46,8 @@
   `42school` `utilities` `productivity-tools` `student-tools`
 <br>
 
+---
+
 ### 🧪 Testing & Validation
 > Tests et validation des projets
 
@@ -59,6 +61,8 @@
   
   `42school` `c` `unit-testing` `tester` `libft`
 <br>
+
+---
 
 ### 💻 Environnement de Développement
 > Configuration et outils de développement
@@ -74,6 +78,8 @@
   `python` `data-visualization` `42school` `graphics` `3d-modeling`
 <br>
 
+---
+
 ### 📊 Visualisation & Suivi
 > Outils de visualisation et suivi de progression
 
@@ -81,6 +87,8 @@
   
   `data-visualization` `42school` `progress-tracker` `student-dashboard`
 <br>
+
+---
 
 ### 🎯 Projets Avancés
 > Ressources pour projets complexes
@@ -92,6 +100,8 @@
   
   `project-template` `framework` `starter-kit` `42school` `advanced`
 <br>
+
+---
 
 ### 🔄 Utils & Integration
 > Outils d'automatisation et workflow
@@ -107,6 +117,8 @@
   `integration` `devtools` `ci-cd` `42school` `automation`
 <br>
 
+---
+
 ### 📊 Analytics & Performance
 > Analyse et optimisation de code
 
@@ -121,72 +133,18 @@
   `profiler` `performance` `analysis` `42school` `optimization`
 <br>
 
+---
+
 ## 💡 Comment Contribuer
 - Fork le projet qui vous intéresse
 - Créez une branche pour vos modifications
 - Soumettez une pull request
 - Participez aux discussions
 
-## 🤝 Support & Communauté
-- Discord : [Rejoignez-nous](lien_discord)
-- Forum : [Discussions](lien_forum)
-- Issues : Créez un ticket sur le repo concerné
-
 ---
 
 <div align="center">
 
 ⭐ *Star les projets utiles pour les soutenir et restez informés des mises à jour !*
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-<div align="center">
-
-## 🔍 Liens Rapides
-**[Core Tools](#-core-tools)** • **[Testing](#-testing--validation)** • **[Dev Env](#-environnement-de-développement)** • **[Analytics](#-analytics--performance)**
-
-⭐ *Star les projets utiles !*
 
 </div>
