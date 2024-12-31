@@ -1,8 +1,7 @@
 <div align="center">
-
+  
 # Dev Forks Collection ✨
 ---
-<br>
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
@@ -13,64 +12,77 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
 
-<br>
-
-*Bienvenue dans cette organisation qui rassemble une collection soigneusement sélectionnée par 42 Academy, regroupant les ressources, outils et projets particulièrement pertinents et utiles pour le parcours d'un développeur.*
+*Collection soigneusement sélectionnée par 42 Academy.*
 </div>
 
-<br><br>
+## 👥 Organisations
+### 🎓 Formation & Apprentissage
+- 42 Academy, 42 Learning, 42 Career Hub
 
-## 🎯 Objectif
-Cette collection sert de hub centralisé pour :
-- Des outils de développement essentiels
-- Des ressources d'apprentissage et de formation
-- Des projets de référence
-- Des configurations optimisées
+### 🛠️ Développement & Outils
+- 42 DevTools, CyberOpsHub, SmartBot Guild, dev-forks-collection
 
-<br><br>
+## 📚 Catégories de Projets
 
-## 📚 Structure de l'Organisation
+### 🔧 Core Tools
+- **norminette** - Vérificateur officiel du style de code 42
+  - Topics: `python` `code-quality` `42school` `linter` `coding-style-checker`
+- **francinette** - Framework de test avancé
+  - Topics: `42school` `c` `unit-testing` `project-tester` `student-tools`
+- **mini-moulinette** - Simulateur de moulinette
+  - Topics: `42school` `testing-framework` `c-testing` `student-tools`
+- **42tools** - Suite d'utilitaires
+  - Topics: `42school` `utilities` `productivity-tools` `student-tools`
 
-Les projets sont organisés via les topics GitHub :
+### 🧪 Testing & Validation
+- **printfTester** - Tests ft_printf
+  - Topics: `42school` `c` `unit-testing` `tester` `printf`
+- **gnlTester** - Tests get_next_line
+  - Topics: `42school` `c` `unit-testing` `tester` `get-next-line`
+- **Tester_libft** - Tests libft
+  - Topics: `42school` `c` `unit-testing` `tester` `libft`
 
-### 🎓 42 School Resources
-- `#42school` - Outils et ressources spécifiques à 42
-- `#student-tool` - Outils pour étudiants
-- `#learning` - Ressources d'apprentissage
+### 💻 Environnement de Développement
+- **42-nvim** - Configuration Neovim optimisée
+  - Topics: `neovim` `editor-plugin` `42school` `student-tool` `ide-configuration`
+- **docuseal** - Alternative DocuSign open-source
+  - Topics: `document-signing` `ruby` `pdf` `forms` `digital-signatures`
+- **map_generator_fdf** - Générateur de maps pour FdF
+  - Topics: `python` `data-visualization` `42school` `graphics` `3d-modeling`
 
-### 🛠️ Development Tools
-- `#neovim` - Configurations et plugins Neovim
-- `#editor-plugin` - Extensions d'éditeur
-- `#shell-scripting` - Scripts et outils shell
-- `#bash` - Ressources Bash
+### 📊 Visualisation & Suivi
+- **42-holygraph** - Visualisation du cursus 42 et dépendances
+  - Topics: `data-visualization` `42school` `progress-tracker` `student-dashboard`
 
-<br><br>
+### 🎯 Projets Avancés
+- **Outils projets complexes** - cub3d, webserv, ft_transcendence
+  - Topics: `advanced-projects` `42school` `templates` `boilerplate` `project-utils`
+- **Templates et frameworks** - Structures de base
+  - Topics: `project-template` `framework` `starter-kit` `42school` `advanced`
 
-## 📂 Projets Actuels
+### 🔄 Utils & Integration
+- **Scripts de synchronisation** - Synchro et backup
+  - Topics: `sync-tools` `automation` `workflow` `42school` `integration`
+- **Utilitaires de workflow** - Optimisation du travail
+  - Topics: `workflow` `utilities` `productivity` `42school` `tools`
+- **Outils d'intégration** - CI/CD et déploiement
+  - Topics: `integration` `devtools` `ci-cd` `42school` `automation`
 
-### Éditeur & IDE
-- **42-nvim** : Configuration Neovim optimisée pour 42
-  - Topics : `neovim` `42school` `student-tool` `editor-plugin`
-
-### Outils 42
-- **42tools** : Collection d'utilitaires pour 42
-  - Topics : `42school` `student-tools` `productivity-tools` `utilities`
-
-<br><br>
+### 📊 Analytics & Performance
+- **Analyseurs de code** - Qualité et métriques
+  - Topics: `code-analysis` `performance` `metrics` `42school` `profiling`
+- **Benchmarks** - Tests de performance
+  - Topics: `benchmarking` `performance` `testing` `42school` `metrics`
+- **Profilers** - Analyse d'exécution
+  - Topics: `profiler` `performance` `analysis` `42school` `optimization`
 
 ## 🔍 Navigation
+1. Recherche par barre de recherche
+2. Filtrage par topics
+3. Navigation par catégories
 
-Pour trouver des projets spécifiques :
-1. Utilisez la barre de recherche en haut de la page
-2. Filtrez par topics
-3. Parcourez les repositories par catégorie
-
-<br><br>
-
-## 📝 Note
-
-Les projets présents ici sont des forks choisis pour leur pertinence. Chaque projet conserve sa licence originale et ses attributions.
+## 📝 Licenses
+Les projets conservent leurs licences et attributions d'origine.
 
 ---
-
-⭐ N'hésitez pas à star les projets que vous trouvez utiles !
+⭐ Star les projets utiles pour les soutenir !
