@@ -2,7 +2,6 @@
   
 # Dev Forks Collection ✨
 ---
-
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
@@ -11,37 +10,41 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+<br>
+*Collection soigneusement sélectionnée par 42 Academy. Regroupant une suite d'outils et ressources essentielles pour le cursus 42.*
+<br>
+</div>
 
+## ℹ️ À propos
+> Cette collection réunit une sélection d'outils et ressources indispensables au sein de 42. De la validation de code aux outils de tests en passant par les frameworks, retrouvez tout ce dont vous avez besoin pour réussir votre cursus.
 <br>
 
-*Collection soigneusement sélectionnée par 42 Academy.*
-</div>
-<br><br>
+## 🌟 Points Forts
+- **Validé par la communauté** - Outils testés et approuvés
+- **Maintenance active** - Mises à jour régulières
+- **Documentation complète** - Guides détaillés
+- **Support communautaire** - Aide entre étudiants
+<br>
 
 ## 📚 Catégories de Projets
 
 <br>
 
+
+
 ### 🔧 Core Tools
+> Les outils fondamentaux pour tout étudiant 42
+<br>
+
 - **norminette** - Vérificateur officiel du style de code 42
   
   `python` `code-quality` `42school` `linter` `coding-style-checker`
-
 - **francinette** - Framework de test avancé
-
+  
   `42school` `c` `unit-testing` `project-tester` `student-tools`
-
-- **mini-moulinette** - Simulateur de moulinette
-
-  `42school` `testing-framework` `c-testing` `student-tools`
-
-- **42tools** - Suite d'utilitaires
-
-  `42school` `utilities` `productivity-tools` `student-tools`
-
 <br><br>
 
-### 🧪 Testing & Validation
+## 🧪 Testing & Validation
 - **printfTester** - Tests ft_printf
   
   `42school` `c` `unit-testing` `tester` `printf`
@@ -56,7 +59,7 @@
 
 <br><br>
 
-### 💻 Environnement de Développement
+## 💻 Environnement de Développement
 - **42-nvim** - Configuration Neovim optimisée
 
   `neovim` `editor-plugin` `42school` `student-tool` `ide-configuration`
@@ -71,7 +74,7 @@
 
 <br><br>
 
-### 📊 Visualisation & Suivi
+## 📊 Visualisation & Suivi
 
 - **42-holygraph** - Visualisation du cursus 42 et dépendances
 
@@ -79,7 +82,7 @@
 
 <br><br>
 
-### 🎯 Projets Avancés
+## 🎯 Projets Avancés
 
 - **Outils projets complexes** - cub3d, webserv, ft_transcendence
 
@@ -91,7 +94,7 @@
 
 <br><br>
 
-### 🔄 Utils & Integration
+## 🔄 Utils & Integration
 
 - **Scripts de synchronisation** - Synchro et backup
 
@@ -107,7 +110,7 @@
 
 <br><br>
 
-### 📊 Analytics & Performance
+## 📊 Analytics & Performance
 - **Analyseurs de code** - Qualité et métriques
   
   `code-analysis` `performance` `metrics` `42school` `profiling`
@@ -122,15 +125,24 @@
 
 <br><br>
 
-## 🔍 Navigation
-1. Recherche par barre de recherche
-2. Filtrage par topics
-3. Navigation par catégories
+## 💡 Comment Contribuer
+- Fork le projet qui vous intéresse
+- Créez une branche pour vos modifications
+- Soumettez une pull request
+- Participez aux discussions
 
-<br><br>
-
-## 📝 Licenses
-Les projets conservent leurs licences et attributions d'origine.
+## 🤝 Support & Communauté
+- Discord : [Rejoignez-nous](lien_discord)
+- Forum : [Discussions](lien_forum)
+- Issues : Créez un ticket sur le repo concerné
 
 ---
-⭐ Star les projets utiles pour les soutenir !
+
+<div align="center">
+
+### 🔍 Navigation Rapide
+**[Core Tools](#-core-tools)** • **[Testing](#-testing--validation)** • **[Dev Env](#-environnement-de-développement)**
+
+⭐ *Star les projets utiles pour les soutenir et restez informés des mises à jour !*
+
+</div>
